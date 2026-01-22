@@ -1,143 +1,143 @@
-[/265.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/2mdn-cn.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/2mdn.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/admob-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/adservice.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/app-analytics-services.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/app-measurement-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/app-measurement.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/apps5.oingo.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/avail.googleflights.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/beacons.gcp.gvt2.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/beacons.gvt2.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/beacons2.gvt2.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/beacons3.gvt2.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/c.admob.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/c.android.clients.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/c.pki.goog/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cache-management-prod.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cache.pack.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/checkin.gstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/clickserve.cc-dt.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/clickserve.dartsearch.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/clickserver.googleads.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/clientservices.googleapis.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cn.widevine.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cnappinstall.googleadapis.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/connectivitycheck.gstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/content.googleadapis.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/crashlyticsreports-pa.googleapis.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/crl.pki.goog/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/csi.gstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/dartsearch-cn.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/dg-meta.video.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/dl.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/dl.l.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/doubleclick-cn.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/doubleclick.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/download.mlcc.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/download.qatp1.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/download.tensorflow.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/emmapplecodevice.googleapis.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/firebase-settings.crashlytics.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/fontfiles.googleapis.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/fonts.googleapis.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/fonts.gstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/g0.gstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/g1.gstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/g2.gstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/g3.gstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/go.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gonglchuangl.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gongyichuangyi.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/google-analytics-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/google-analytics.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googleadservices-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googleadservices.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googleanalytics.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googleapis-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googleapps-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googleflights-cn.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googleoptimize-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googleoptimize.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googlesyndication-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googlesyndication.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googletagmanager-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googletagmanager.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googletagservices-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googletagservices.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googletraveladservices-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googletraveladservices.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/googlevads-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gstatic-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gstaticadssl.l.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gtm.oasisfeng.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gvt1-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gvt2-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/imasdk.googleapis.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/l2-uberproxy.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/logger-dev.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/logger.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/login.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/monitoring.qpdp1.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/ocsp.pki.goog/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/pagead-googlehosted.l.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/performanceparameters.googleapis.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/pki-goog.l.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/prod-controlbe.floonet.goog/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/prod-databe.floonet.goog/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/prod.databe.floonet.goog/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/proxyconfig.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/qagpublic.qatp1.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/qgadmin.qcpp1.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/qiao-cn.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/qpx.googleflights.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/qualysapi.qatp1.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/qualysguard.qpdp1.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/r.cert.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/rapture-prod.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/recaptcha-cn.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/recaptcha.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/redirector.bdn.dev/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/redirector.c.chat.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/redirector.c.mail.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/redirector.c.pack.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/redirector.c.play.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/redirector.c.youtubeeducation.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/redirector.gcpcdn.gvt1.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/redirector.gvt1.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/redirector.offline-maps.gvt1.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/redirector.snap.gvt1.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/redirector.xn--ngstr-lra8j.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/safebrowsing-cache.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/safebrowsing.googleapis.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/scanservice1.qcpp1.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/service.urchin.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/ssl-google-analytics.l.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/ssl.gstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/sslredirect.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/staging-controlbe.floonet.goog/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/staging-databe.floonet.goog/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/staging.databe.floonet.goog/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/streaming-uberproxy-rotation.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/streaming-uberproxy.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/sup-ssh-relay.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/sup-ssh-relay2.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/sup.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/sup.l.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/tac.googleapis.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/test.gbugs-qa.chromium.org/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/tools.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/tools.l.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/uberproxy-debug4.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/uberproxy.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/uberproxy6.corp.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/update.crashlytics.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/update.googleapis.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/wear.googleapis.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/www-google-analytics.l.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/www-googletagmanager.l.google.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/www.destinationurl.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/www.gstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/www.pxcc.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/xn--flw351e.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
+[/265.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/2mdn-cn.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/2mdn.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/admob-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/adservice.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/app-analytics-services.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/app-measurement-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/app-measurement.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/apps5.oingo.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/avail.googleflights.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/beacons.gcp.gvt2.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/beacons.gvt2.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/beacons2.gvt2.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/beacons3.gvt2.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/c.admob.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/c.android.clients.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/c.pki.goog/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cache-management-prod.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cache.pack.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/checkin.gstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/clickserve.cc-dt.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/clickserve.dartsearch.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/clickserver.googleads.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/clientservices.googleapis.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cn.widevine.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cnappinstall.googleadapis.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/connectivitycheck.gstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/content.googleadapis.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/crashlyticsreports-pa.googleapis.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/crl.pki.goog/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/csi.gstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/dartsearch-cn.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/dg-meta.video.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/dl.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/dl.l.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/doubleclick-cn.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/doubleclick.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/download.mlcc.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/download.qatp1.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/download.tensorflow.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/emmapplecodevice.googleapis.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/firebase-settings.crashlytics.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/fontfiles.googleapis.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/fonts.googleapis.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/fonts.gstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/g0.gstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/g1.gstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/g2.gstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/g3.gstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/go.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gonglchuangl.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gongyichuangyi.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/google-analytics-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/google-analytics.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googleadservices-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googleadservices.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googleanalytics.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googleapis-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googleapps-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googleflights-cn.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googleoptimize-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googleoptimize.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googlesyndication-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googlesyndication.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googletagmanager-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googletagmanager.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googletagservices-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googletagservices.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googletraveladservices-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googletraveladservices.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/googlevads-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gstatic-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gstaticadssl.l.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gtm.oasisfeng.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gvt1-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gvt2-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/imasdk.googleapis.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/l2-uberproxy.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/logger-dev.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/logger.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/login.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/monitoring.qpdp1.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/ocsp.pki.goog/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/pagead-googlehosted.l.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/performanceparameters.googleapis.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/pki-goog.l.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/prod-controlbe.floonet.goog/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/prod-databe.floonet.goog/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/prod.databe.floonet.goog/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/proxyconfig.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/qagpublic.qatp1.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/qgadmin.qcpp1.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/qiao-cn.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/qpx.googleflights.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/qualysapi.qatp1.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/qualysguard.qpdp1.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/r.cert.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/rapture-prod.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/recaptcha-cn.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/recaptcha.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/redirector.bdn.dev/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/redirector.c.chat.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/redirector.c.mail.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/redirector.c.pack.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/redirector.c.play.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/redirector.c.youtubeeducation.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/redirector.gcpcdn.gvt1.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/redirector.gvt1.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/redirector.offline-maps.gvt1.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/redirector.snap.gvt1.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/redirector.xn--ngstr-lra8j.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/safebrowsing-cache.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/safebrowsing.googleapis.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/scanservice1.qcpp1.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/service.urchin.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/ssl-google-analytics.l.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/ssl.gstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/sslredirect.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/staging-controlbe.floonet.goog/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/staging-databe.floonet.goog/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/staging.databe.floonet.goog/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/streaming-uberproxy-rotation.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/streaming-uberproxy.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/sup-ssh-relay.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/sup-ssh-relay2.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/sup.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/sup.l.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/tac.googleapis.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/test.gbugs-qa.chromium.org/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/tools.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/tools.l.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/uberproxy-debug4.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/uberproxy.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/uberproxy6.corp.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/update.crashlytics.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/update.googleapis.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/wear.googleapis.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/www-google-analytics.l.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/www-googletagmanager.l.google.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/www.destinationurl.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/www.gstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/www.pxcc.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/xn--flw351e.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114

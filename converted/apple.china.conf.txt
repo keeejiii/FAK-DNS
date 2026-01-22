@@ -1,167 +1,167 @@
-[/a1.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/a2.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/a3.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/a4.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/a5.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/adcdownload.apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/adcdownload.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/amp-api-updates.apps.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/amp-api.media.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/app-site-association.cdn-apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/appldnld.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/appldnld.g.aaplimg.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/appleid.cdn-apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/apps.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/apps.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/bag-cdn.itunes-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cdn-cn1.apple-mapkit.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cdn-cn2.apple-mapkit.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cdn-cn3.apple-mapkit.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cdn-cn4.apple-mapkit.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cdn.apple-mapkit.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cdn1.apple-mapkit.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cdn2.apple-mapkit.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cdn3.apple-mapkit.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cdn4.apple-mapkit.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cds-cdn.v.aaplimg.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cds.apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cds.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cdsassets.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/certs.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cl1-cdn.origin-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cl1.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cl2-cn.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cl2.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cl3-cdn.origin-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cl3.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cl4-cdn.origin-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cl4-cn.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cl4.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cl5-cdn.origin-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cl5.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/clientflow.apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/clientflow.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cn-smp-paymentservices.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/configuration.apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/configuration.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/crl.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cstat.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/cstat.cdn-apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/dd-cdn.origin-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/dejavu.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/devimages-cdn.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/devstreaming-cdn.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/download.developer.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/experiments.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gs-loc-cn.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gs-loc.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gsp10-ssl-cn.ls.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gsp12-cn.ls.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gsp13-cn.ls.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gsp4-cn.ls.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gsp5-cn.ls.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gsp85-cn-ssl.ls.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gspe19-2-cn-ssl.ls.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gspe19-cn-ssl.ls.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gspe19-cn.ls-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gspe19-cn.ls.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gspe21-ssl.ls.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gspe35-ssl.ls.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/gspe79-cn-ssl.ls.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/guzzoni-apple-com.v.aaplimg.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/guzzoni.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/guzzoni.smoot.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/iadsdk.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/icloud-cdn.icloud.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/icloud.cdn-apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/images.apple.com.edgekey.net.globalredir.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/init-kt.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/init-p01md-lb.push-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/init-p01md.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/init-p01st-lb.push-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/init-p01st.push.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/init-s01st-lb.push-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/init-s01st.push.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/init.ess.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/iosapps.itunes.g.aaplimg.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/ipcdn.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/iphone-ld.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/iphone-ld.origin-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/is1-ssl.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/is1.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/is2-ssl.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/is2.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/is3-ssl.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/is3.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/is4-ssl.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/is4.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/is5-ssl.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/is5.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/itunes-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/itunes.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/itunesconnect.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/mesu-cdn.apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/mesu-china.apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/mesu.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/ml.cdn-apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/music.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/ocsp-lb.apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/ocsp.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/ocsp2-lb.apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/ocsp2.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/oscdn.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/oscdn.origin-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/osxapps.itunes.g.aaplimg.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/pancake.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/pancake.cdn-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/pba0.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/probe.siri.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/prod-support.apple-support.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/publicassets.cdn-apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/reserve-prime.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/s.mzstatic.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/seed-sequoia.siri.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/seed-swallow.siri.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/seed.siri.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/sequoia.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/sh-pod2-smp-device.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/shazam-insights.cdn-apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/smp-device-content.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/static.gc.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/stocks-sparkline-lb.apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/stocks-sparkline.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/store.apple.com.edgekey.net.globalredir.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/store.apple.com.edgekey.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/store.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/store.storeimages.apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/store.storeimages.cdn-apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/support-china.apple-support.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/support.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/swallow-apple-com.v.aaplimg.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/swallow.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/swcatalog-cdn.apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/swcatalog.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/swcdn.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/swcdn.g.aaplimg.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/swdist.apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/swdist.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/swscan-cdn.apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/swscan.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/sylvan.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/tj-pod1-smp-device.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/updates-http.cdn-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/updates-http.cdn-apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/updates.cdn-apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/valid.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/valid.origin-apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/weather-data.apple.com.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/weather-data.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/weather-map.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/weather-map2.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/weatherkit.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/www.apple.com.edgekey.net.globalredir.akadns.net/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/www.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
-[/xp.apple.com/]quic://160238.alidns.com tls://dot.pub tls://dot.360.cn
+[/a1.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/a2.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/a3.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/a4.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/a5.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/adcdownload.apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/adcdownload.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/amp-api-updates.apps.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/amp-api.media.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/app-site-association.cdn-apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/appldnld.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/appldnld.g.aaplimg.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/appleid.cdn-apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/apps.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/apps.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/bag-cdn.itunes-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cdn-cn1.apple-mapkit.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cdn-cn2.apple-mapkit.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cdn-cn3.apple-mapkit.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cdn-cn4.apple-mapkit.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cdn.apple-mapkit.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cdn1.apple-mapkit.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cdn2.apple-mapkit.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cdn3.apple-mapkit.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cdn4.apple-mapkit.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cds-cdn.v.aaplimg.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cds.apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cds.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cdsassets.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/certs.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cl1-cdn.origin-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cl1.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cl2-cn.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cl2.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cl3-cdn.origin-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cl3.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cl4-cdn.origin-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cl4-cn.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cl4.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cl5-cdn.origin-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cl5.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/clientflow.apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/clientflow.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cn-smp-paymentservices.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/configuration.apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/configuration.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/crl.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cstat.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/cstat.cdn-apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/dd-cdn.origin-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/dejavu.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/devimages-cdn.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/devstreaming-cdn.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/download.developer.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/experiments.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gs-loc-cn.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gs-loc.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gsp10-ssl-cn.ls.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gsp12-cn.ls.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gsp13-cn.ls.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gsp4-cn.ls.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gsp5-cn.ls.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gsp85-cn-ssl.ls.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gspe19-2-cn-ssl.ls.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gspe19-cn-ssl.ls.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gspe19-cn.ls-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gspe19-cn.ls.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gspe21-ssl.ls.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gspe35-ssl.ls.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/gspe79-cn-ssl.ls.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/guzzoni-apple-com.v.aaplimg.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/guzzoni.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/guzzoni.smoot.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/iadsdk.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/icloud-cdn.icloud.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/icloud.cdn-apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/images.apple.com.edgekey.net.globalredir.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/init-kt.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/init-p01md-lb.push-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/init-p01md.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/init-p01st-lb.push-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/init-p01st.push.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/init-s01st-lb.push-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/init-s01st.push.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/init.ess.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/iosapps.itunes.g.aaplimg.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/ipcdn.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/iphone-ld.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/iphone-ld.origin-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/is1-ssl.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/is1.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/is2-ssl.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/is2.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/is3-ssl.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/is3.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/is4-ssl.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/is4.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/is5-ssl.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/is5.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/itunes-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/itunes.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/itunesconnect.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/mesu-cdn.apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/mesu-china.apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/mesu.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/ml.cdn-apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/music.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/ocsp-lb.apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/ocsp.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/ocsp2-lb.apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/ocsp2.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/oscdn.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/oscdn.origin-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/osxapps.itunes.g.aaplimg.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/pancake.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/pancake.cdn-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/pba0.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/probe.siri.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/prod-support.apple-support.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/publicassets.cdn-apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/reserve-prime.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/s.mzstatic.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/seed-sequoia.siri.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/seed-swallow.siri.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/seed.siri.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/sequoia.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/sh-pod2-smp-device.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/shazam-insights.cdn-apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/smp-device-content.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/static.gc.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/stocks-sparkline-lb.apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/stocks-sparkline.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/store.apple.com.edgekey.net.globalredir.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/store.apple.com.edgekey.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/store.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/store.storeimages.apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/store.storeimages.cdn-apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/support-china.apple-support.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/support.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/swallow-apple-com.v.aaplimg.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/swallow.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/swcatalog-cdn.apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/swcatalog.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/swcdn.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/swcdn.g.aaplimg.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/swdist.apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/swdist.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/swscan-cdn.apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/swscan.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/sylvan.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/tj-pod1-smp-device.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/updates-http.cdn-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/updates-http.cdn-apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/updates.cdn-apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/valid.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/valid.origin-apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/weather-data.apple.com.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/weather-data.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/weather-map.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/weather-map2.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/weatherkit.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/www.apple.com.edgekey.net.globalredir.akadns.net/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/www.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
+[/xp.apple.com/]223.5.5.5 119.29.29.29 180.184.1.1 114.114.114.114
