@@ -3,16 +3,16 @@ name: Update DNS Rules
 on:
   schedule:
     - cron: "0 22 * * *"  # 每天北京时间早上6点左右运行
-  workflow_dispatch:      # 允许你在 Actions 页面手动点击运行
+  workflow_dispatch:      # 允许手动点击运行
 
 jobs:
   build_and_push:
     runs-on: ubuntu-latest
     
-    # ⚠️这里设置你的 DNS IP，请根据需要修改⚠️
+    # ✅ 修正点：这里不再写死 IP，而是调用你在 GitHub Settings 里设置的变量
     env:
-      CN_DNS: "223.5.5.5"
-      THE_DNS: "8.8.8.8"
+      CN_DNS: ${{ vars.CN_DNS }}
+      THE_DNS: ${{ vars.THE_DNS }}
 
     steps:
     - name: Checkout code
@@ -25,24 +25,26 @@ jobs:
 
     - name: Download latest data
       run: |
-        # 核心步骤：直接从上游下载最新的加速域名列表
-        # 这样你就不用同步整个仓库，也能拿到最新数据
+        # 直接下载上游的源文件，确保是最新的
         wget https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf -O accelerated-domains.china.conf
 
     - name: Run conversion script
       run: |
-        # 运行你的 Python 脚本
+        # 运行 convert.py，此时它读取到的环境变量就是你设置的长链接了
         python convert.py
 
     - name: Commit and Push changes
       run: |
-        # 检查是否有变化并提交
+        # 检查是否有文件生成
         if [ -f "converted/FAK-DNS.txt" ]; then
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add converted/FAK-DNS.txt
+          
+          # 只有当内容真的变了才提交
           git commit -m "Auto-update DNS rules" -a || exit 0
           git push
         else
-          echo "文件未生成，跳过提交"
+          echo "Error: FAK-DNS.txt was not generated."
+          exit 1
         fi
